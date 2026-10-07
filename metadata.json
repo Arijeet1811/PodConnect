@@ -1,0 +1,6 @@
+{
+  "name": "AirPods Popup for Android",
+  "description": "Brings the iOS AirPods connection card experience to Android for any paired Bluetooth earphone with procedural 3D canvas visuals, hover physics, and WindowManager overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
